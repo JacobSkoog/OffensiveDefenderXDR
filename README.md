@@ -2,6 +2,8 @@
 
 A collection of Microsoft Defender XDR Advanced Hunting queries focused on detecting Windows local privilege escalation vectors. These queries are designed for proactive threat hunting and can be adapted into scheduled detection rules.
 
+Defender XDR / KQL implementation of Offensive SIEM.
+
 ## Query Index
 
 | # | Query | MITRE ATT&CK | Severity | Data Source |
